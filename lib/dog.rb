@@ -2,6 +2,7 @@ class Person
   
   def 
   end 
+  
 end 
 
 class Dog 
