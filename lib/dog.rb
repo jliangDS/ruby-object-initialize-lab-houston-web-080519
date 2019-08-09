@@ -17,13 +17,5 @@ class Dog
     end 
   end 
   
-  def initialize(breed)
-    if breed == true 
-      @breed = breed 
-    else 
-      @breed = "Mutt"
-    end 
-  end 
-  
   
 end 
