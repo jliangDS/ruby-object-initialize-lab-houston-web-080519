@@ -8,7 +8,7 @@ end
 
 class Dog 
   
-  def initialize(name, breed = Mutt)
+  def initialize(name, breed = 0)
     @name = name 
     if breed = true 
       @breed = breed 
