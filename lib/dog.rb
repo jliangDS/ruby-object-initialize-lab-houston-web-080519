@@ -13,7 +13,7 @@ class Dog
     if breed == true 
       @breed = breed 
     else 
-      @breed = Mutt
+      @breed = "Mutt"
     end 
   end 
   
