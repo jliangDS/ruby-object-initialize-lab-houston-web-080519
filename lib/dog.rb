@@ -8,6 +8,9 @@ end
 
 class Dog 
   
+  def 
+  end 
+  
   def initialize(breed)
     if breed == true 
       @breed = breed 
